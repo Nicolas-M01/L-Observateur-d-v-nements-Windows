@@ -27,6 +27,13 @@ Cette partie est à rentrer dans `By source`/`Event logs` comme sur la photo :
 ![Capture d'écran 2024-12-16 150802](https://github.com/user-attachments/assets/6a33079e-ef7b-4e86-9892-5305fb7805ba)
 
 :hash: **3. Événements critiques (ID principaux) :**  
+Événements critiques (ID principaux)  
+``2``: Démarrage du serveur DNS  
+``4``: Arrêt du serveur DNS  
+``409``: Erreur de résolution de nom  
+``501-502``: Échec de chargement de zone  
+``6001-6002``: Problèmes de réplication DNS  
+
 Ajouter les IDs dans la colonne des IDs.  
 ![Capture d'écran 2024-12-16 151325](https://github.com/user-attachments/assets/4fbb529f-3bae-486a-b184-c95f1671d278)  
 
