@@ -18,11 +18,15 @@ La fenêtre va se lancer.
 
 * ### Configuration de la vue personnalisée :  
 :hash: **1. Niveaux à surveiller :**  
-Critical/Error/Warning/Information : dans la fenêtre "Event level"  
+Critical/Error/Warning/Information : dans la fenêtre ``Event level``  
 :hash: **2. Sources d'événements à inclure :**  
 ``DNS-Server-Service: Pour les opérations du serveur DNS``  
 ``DNS Client Events: Pour les événements côté client``  
 Cette partie est à rentrer dans `By source`/`Event logs` comme sur la photo :  
 
 ![Capture d'écran 2024-12-16 150802](https://github.com/user-attachments/assets/6a33079e-ef7b-4e86-9892-5305fb7805ba)
+
+:hash: **3. Événements critiques (ID principaux) :**  
+Ajouter les IDs dans la colonne des IDs.  
+![Capture d'écran 2024-12-16 151325](https://github.com/user-attachments/assets/4fbb529f-3bae-486a-b184-c95f1671d278)  
 
