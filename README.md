@@ -38,4 +38,9 @@ Ajouter les IDs dans la colonne des IDs.
 ![Capture d'écran 2024-12-16 151325](https://github.com/user-attachments/assets/4fbb529f-3bae-486a-b184-c95f1671d278)  
 
 :hash: **Attribuer nom et descriptif :**  
+
 ![Capture d'écran 2024-12-16 151525](https://github.com/user-attachments/assets/8315b509-62ee-4453-8c87-a346f832b667)  
+
+:hash: **Exporter au format XML :**  
+Clique droit sur le filtre créé. cliquer sur `Export Custom View...`, puis le nommer.  
+![Capture d'écran 2024-12-16 152952](https://github.com/user-attachments/assets/ee598dbe-4ad5-4427-81b5-c478c1aa1613)  
