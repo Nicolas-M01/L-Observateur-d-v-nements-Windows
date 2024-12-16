@@ -12,3 +12,17 @@
 :hash: **Lancement d'Event Viewer :**  
 Tapez **[Windows + R]**, puis dans la fenêtre exécuter, **[eventvwr]**, puis **[enter]**.  
 La fenêtre va se lancer.  
+
+:hash: **Créer vue personnalisée :**  
+![Capture d'écran 2024-12-16 143029](https://github.com/user-attachments/assets/629023b3-c732-4f35-a804-98ec57b52297)  
+
+* ### Configuration de la vue personnalisée :  
+:hash: **1. Niveaux à surveiller :**  
+Critical/Error/Warning/Information : dans la fenêtre "Event level"  
+:hash: **2. Sources d'événements à inclure :**  
+``DNS-Server-Service: Pour les opérations du serveur DNS``  
+``DNS Client Events: Pour les événements côté client``  
+Cette partie est à rentrer dans `By source`/`Event logs` comme sur la photo :  
+
+![Capture d'écran 2024-12-16 150802](https://github.com/user-attachments/assets/6a33079e-ef7b-4e86-9892-5305fb7805ba)
+
