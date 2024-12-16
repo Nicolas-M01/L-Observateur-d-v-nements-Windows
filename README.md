@@ -37,3 +37,5 @@ Cette partie est à rentrer dans `By source`/`Event logs` comme sur la photo :
 Ajouter les IDs dans la colonne des IDs.  
 ![Capture d'écran 2024-12-16 151325](https://github.com/user-attachments/assets/4fbb529f-3bae-486a-b184-c95f1671d278)  
 
+:hash: **Attribuer nom et descriptif :**  
+![Capture d'écran 2024-12-16 151525](https://github.com/user-attachments/assets/8315b509-62ee-4453-8c87-a346f832b667)  
