@@ -8,3 +8,6 @@
 Puis régler les paramètres machine comme ceci :  
 ![Capture d'écran 2024-12-16 142642](https://github.com/user-attachments/assets/89f49b09-2e15-4d0b-8a9d-9079e2cd4a07)  
 
+:hash: **Lancement d'Event Viewer :**  
+Tapez **[Windows + R]**, puis dans la fenêtre exécuter, **[eventvwr]**, puis [enter].  
+La fenêtre va se lancer.  
